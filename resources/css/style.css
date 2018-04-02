@@ -23,15 +23,14 @@ h3 {
   font-weight: bold;
 }
 
-.design h3 {
+#design {
   color: white;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 p {
   font-size: 14px;
 }
-.footer ul {
-  float: left;
+.footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
