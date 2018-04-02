@@ -8,6 +8,8 @@ body {
 .navigation ul {
   font-size: 18px;
   color: white;
+  list-style-type: none;
+  text-decoration: underline;
 }
 h1 {
   font-size: 70px;
@@ -34,4 +36,9 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+}
+.footer ul {
+  list-style-type: none;
+  text-decoration: underline;
 }
